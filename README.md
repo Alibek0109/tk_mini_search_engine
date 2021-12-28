@@ -1,0 +1,2 @@
+- This is mini search engine programm, which interact with google and yandex.
+- This is project just to learn python and python module tkinter
